@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.jaybill.billblog.solr.mapper.ResultMapper" >
+	<resultMap id="BaseResultMap" type="com.jaybill.billblog.solr.pojo.Result" >
+	  <id column="WEIBO_ID" property="weiboId" jdbcType="BIGINT" />
+	  <id column="WEIBO_CONTENT" property="weiboContent" jdbcType="VARCHAR" />
+	</resultMap>
+	<select id="getResultList" resultMap="BaseResultMap">
+		select WEIBO_ID,WEIBO_CONTENT from weibo
+	</select>
+</mapper>

@@ -1,0 +1,145 @@
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 5166 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Mar 22 22:22:54 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4327 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 22:22:58 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.jaybill.billblog.solr.pojo.Result> com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 22:22:58 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 22:22:58 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 2950 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Mar 22 23:03:43 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4477 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 23:03:47 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.jaybill.billblog.solr.pojo.Result> com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 23:03:47 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 23:03:47 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 2946 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Mar 22 23:24:55 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4375 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 23:24:59 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.jaybill.billblog.solr.pojo.Result> com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 23:24:59 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Wed Mar 22 23:24:59 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 2885 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Mar 23 00:23:12 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4253 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:23:16 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.fasterxml.jackson.databind.util.JSONPObject com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest,java.lang.String)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:23:16 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:23:16 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 3001 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Mar 23 00:40:48 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4072 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:40:52 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.fasterxml.jackson.databind.util.JSONPObject com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest,java.lang.String)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:40:52 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:40:52 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 3142 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Mar 23 00:44:15 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3906 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:44:18 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.fasterxml.jackson.databind.util.JSONPObject com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest,java.lang.String)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:44:18 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 00:44:18 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 3379 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Mar 23 14:17:31 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3997 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 14:17:35 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.fasterxml.jackson.databind.util.JSONPObject com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest,java.lang.String)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 14:17:35 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Thu Mar 23 14:17:35 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 2917 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Fri Mar 24 23:01:10 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2893 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Fri Mar 24 23:01:13 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.fasterxml.jackson.databind.util.JSONPObject com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest,java.lang.String)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Fri Mar 24 23:01:13 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Fri Mar 24 23:01:13 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 1967 ms
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Sat Mar 25 00:22:03 CST 2017]; root of context hierarchy
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-dao.xml]
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [E:\eclipse_workplace\billblog-solr\target\classes\spring\applicationContext-service.xml]
+INFO main org.springframework.context.support.PropertySourcesPlaceholderConfigurer - Loading properties file from class path resource [db/db.properties]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4904 ms
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization started
+INFO main org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Sat Mar 25 00:22:08 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+INFO main org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/queryOnCondition],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.List<com.jaybill.billblog.solr.pojo.Result> com.jaybill.billlblog.solr.controller.SearchController.queryOnCondition(java.lang.String,javax.servlet.http.HttpServletRequest,java.lang.String)
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/search/importall],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public int com.jaybill.billlblog.solr.controller.SearchController.importAllResult()
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Sat Mar 25 00:22:08 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'billblog-solr-servlet': startup date [Sat Mar 25 00:22:08 CST 2017]; parent: Root WebApplicationContext
+INFO main org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'billblog-solr': initialization completed in 3319 ms
